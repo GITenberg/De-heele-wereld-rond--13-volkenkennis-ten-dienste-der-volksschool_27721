@@ -1,0 +1,30 @@
+_repo: De-heele-wereld-rond--13-volkenkennis-ten-dienste-der-volksschool_27721
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goeverneur, J. J. A. (Johan Jacob Antonie)
+    aliases:
+    - Goeverneur, J.J.A.
+    - Goeverneur, Johan Jacob Antonie
+    birthdate: 1809
+    deathdate: 1889
+    gutenberg_agent_id: '32864'
+    url: http://www.gutenberg.org/2009/agents/32864
+description: ''
+gutenberg_issued: '2009-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27721'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Geography -- Juvenile literature'
+title: "De heele wereld rond\r\nEen leesboek ter bevordering van natuur-, landen-\
+  \ en\r\nvolkenkennis, ten dienste der volksschool"
+url: http://www.gutenberg.org/ebooks/27721
